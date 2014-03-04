@@ -109,7 +109,7 @@ while guesses > 0 and win == 0:
         else: win = 1
     
 if win == 1:
-    print 'Congratulations, you won!'
+    print 'Congratulations, you won mate!'
 else: print 'You\'re man has been hanged'
 
 
